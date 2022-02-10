@@ -36,10 +36,12 @@ filename=input("Enter Filename:")
 wordcount(filename)
 ```
 ### OUTPUT:
-#Text File "File1.txt":
+# Text File "File1.txt":
 
 ![CODE](https://user-images.githubusercontent.com/93901857/153348420-86126146-c6c6-4206-b5a1-d2642fa2e57f.jpg)
-#output of the code:
+
+
+## output of the code:
 
 
 ![OP](https://user-images.githubusercontent.com/93901857/153348427-c7b31a6b-6650-433a-b74b-fa72d63aa4c1.jpg)
